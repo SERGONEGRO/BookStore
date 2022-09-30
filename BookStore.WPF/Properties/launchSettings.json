@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "BookStore.WPF": {
+      "commandName": "Project"
+    }
+  }
+}
